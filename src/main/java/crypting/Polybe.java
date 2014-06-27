@@ -11,7 +11,7 @@ public class Polybe
 
 
     private String text;
-    private String[] polybeArray ={"00","01","02","03","04","10","11","12","13","14","20","21","22","23","24","30","31","32","33","34","40","41","42","43","44"};
+    private String[] polybeArray ={"11","12","13","14","15","21","22","23","24","25","31","32","33","34","35","41","42","43","44","45","51","52","53","54","55"};
     private static String letters ="ABCDEFGHIJKLMNOPQRSTUVXYZ";
 
     public Polybe(String text)
